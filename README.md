@@ -1,4 +1,5 @@
-# Netflix-TV-Shows-and-Movies-dataset-
+# Data-Analysis-with-Python
+#Netflix-TV-Shows-and-Movies
 
 Our project centered around a robust and extensive Netflix dataset comprising 5,850+ unique titles encompassing movies and TV shows. Acquired in May 2022, this dataset provided a rich array of attributes including title details, release years, genres, runtimes, IMDb ratings, and more.
 
